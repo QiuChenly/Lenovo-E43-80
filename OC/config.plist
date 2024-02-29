@@ -50,7 +50,7 @@
 				<key>Comment</key>
 				<string></string>
 				<key>Enabled</key>
-				<false/>
+				<true/>
 				<key>Path</key>
 				<string>SSDT-UIAC.aml</string>
 			</dict>
@@ -585,7 +585,7 @@
 				<key>Comment</key>
 				<string></string>
 				<key>Enabled</key>
-				<true/>
+				<false/>
 				<key>ExecutablePath</key>
 				<string>Contents/MacOS/VoodooI2C</string>
 				<key>MaxKernel</key>
@@ -603,7 +603,7 @@
 				<key>Comment</key>
 				<string></string>
 				<key>Enabled</key>
-				<true/>
+				<false/>
 				<key>ExecutablePath</key>
 				<string>Contents/MacOS/VoodooGPIO</string>
 				<key>MaxKernel</key>
@@ -621,7 +621,7 @@
 				<key>Comment</key>
 				<string></string>
 				<key>Enabled</key>
-				<true/>
+				<false/>
 				<key>ExecutablePath</key>
 				<string>Contents/MacOS/VoodooI2CServices</string>
 				<key>MaxKernel</key>
@@ -639,7 +639,7 @@
 				<key>Comment</key>
 				<string></string>
 				<key>Enabled</key>
-				<true/>
+				<false/>
 				<key>ExecutablePath</key>
 				<string>Contents/MacOS/VoodooInput</string>
 				<key>MaxKernel</key>
@@ -657,7 +657,7 @@
 				<key>Comment</key>
 				<string></string>
 				<key>Enabled</key>
-				<true/>
+				<false/>
 				<key>ExecutablePath</key>
 				<string>Contents/MacOS/VoodooI2CELAN</string>
 				<key>MaxKernel</key>
